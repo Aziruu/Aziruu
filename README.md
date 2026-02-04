@@ -1,7 +1,7 @@
 <h1 align="start">Hi there, I'm Aziruu! 👋</h1>
 
 <p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Student+Developer;Laravel+%2B+React+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Talented+Learner;Laravel+%2B+React+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
 <!--
