@@ -1,7 +1,7 @@
 <h1 align="center">I'm Aziruu!</h1>
 
 <p align="center">
-  None.
+  Hello
 </p>
 
 <!--
