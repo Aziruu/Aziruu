@@ -1,4 +1,4 @@
-<h1 align="center">I'm Aziruu!</h1>
+<h1 align="start", padding-left=2px>I'm Aziruu</h1>
 
 <p align="center">
   Hello
