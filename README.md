@@ -1,8 +1,10 @@
-<h1 align="start", padding-left=2px>I'm Aziruu</h1>
+<div align="left">
+  <h1>&nbsp;I'm Aziruu</h1>
+</div>
 
-<p align="center">
-  Hello
-</p>
+<div align="left">
+  <p>&nbsp;&nbsp;Hello</p>
+</div>
 
 <!--
 **Aziruu/Aziruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
