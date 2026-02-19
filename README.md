@@ -4,7 +4,7 @@
 
   <p>Hello there! Welcome to my profile space. 👋</p>
 
-  <img src="siwo-awaken2.webp" width="500" alt="Animasi Siwo" />
+  <img src="siwoo-awaken2.webp" width="500" alt="Animasi Siwo" />
 
 </div>
 
