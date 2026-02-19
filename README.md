@@ -1,9 +1,11 @@
-<div align="left">
-  <h1>&nbsp;I'm Aziruu</h1>
-</div>
+<div align="center">
 
-<div align="left">
-  <p>&nbsp;&nbsp;Hello</p>
+  <h1>I'm <a href="https://github.com/Aziruu">Aziruu</a></h1>
+
+  <p>Hello there! Welcome to my profile space. 👋</p>
+
+  <img src="siwo-awaken2.webp" width="500" alt="Animasi Siwo" />
+
 </div>
 
 <!--
