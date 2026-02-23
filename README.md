@@ -2,7 +2,7 @@
 
   <h1>I'm <a href="https://github.com/Aziruu">Aziruu</a></h1>
 
-  <p>Hello there! Welcome to my profile space. 👋</p>
+  <p>Hello there! Welcome to my profile space.</p>
 
   <img src="siwoo-awaken2.webp" width="500" alt="Animasi Siwo" />
 
